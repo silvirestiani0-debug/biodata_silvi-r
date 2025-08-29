@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>home</title>
+</head>
+<body>
+    <center>
+        <hr>
+        <nav>
+        <a href="home.html">Home |</a>
+        <a href="CV.html">Download CV |</a>
+        <a href="about me.html">About Me |</a>
+        <a href="contact me.html">Contact Me |</a>
+        </nav>
+        <hr>
+        <br>
+
+        <img src="Putih Abu Abu Modern CV Resume Riwayat Hidup (1).jpg" width="350" height="550">
+            

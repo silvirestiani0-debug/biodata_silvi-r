@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>document</title>
+    </head>
+    <body>
+        <p>
+            <a href="home.html">Home |</a>
+            <a href="cv.html">Download CV |</a>
+            <a href="about me.html">About Me |</a>
+            <a href="contact me.html">Contact Me |</a>
+    <h1>ABOUT ME</h1>
+    <hr>
+    <p>hi saya silvi restiani saya pelajar kelas 11 pengembangan perangkat lunak dan gim</p>
+<p>
+   <video width="320" height="240" controls>
+  <source src="WhatsApp Video 2025-08-05 at 21.35.19 (1).mp4" type="video/mp4">
+
+</head>
+<body>
+    

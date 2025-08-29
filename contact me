@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+</head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width-device-width, initial-scale=1.0">
+      <title>document</title>
+</head>
+<body>
+    <!--navigasi-->
+    <p>
+        <a href="index.html">home</a>
+        <a href="cv.html">download cv</a>
+        <a href="about me.html">about me</a>
+        <a href="contact me.html">contact me</a>
+        <p>
+            <hr>
+            <h1 style="text-align: center;">contact me</h1>
+            <form>
+                <label>email</label>><br>
+                <input type="email" placeholder="alamat"><br><br>
+                <label>pesan</label><br>
+                <textarea placeholder="tulis pesan anda..." rows="5" cols="30"></textarea><br>
+                <button type="submit">kritik</button>
+            </form>
+
+            </body>
+</html>

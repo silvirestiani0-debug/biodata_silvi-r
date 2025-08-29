@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <p>
+    <a href="home.html">home</a>
+    <a href="cv.html">download CV</a>
+    <a href="about me.html">about me</a>
+    <a href="contact me.html">contact me</a>
+    <p>
+
+<img src="3cc84eb7-a2ce-4df1-b57b-53a3accdb43d.jfif" style="border-radius : 50%; display : block; margin: auto; width: 200px; height: 200px; object-fit: cover">
+<h1 style="text-align: center;">silvi restiani</h1>
+<h4 style="text-align: center;">smkn 2 sumedang</h4>
+
+<hr>
+<h2 style="text-align: center;"></h2>
+<h2 style="text-align: center;">overview</h2>
+<p style="text-align: center;">
+    <td>hi, saya silvi restiani, saya pelajar kelas 11 jurusan pengembangan perangkat lunak</td>
+
+    </p>
+    <table border="1" style="margin: auto; width: 50%;">
+        <tr>
+            <th style="width: 25%;">riwayat pendidikan</th>
+            <th style="width: 25%;">hobi</th>
+            </tr>
+                <td> 1. tk : cireme 2014-2015
+                <td>memasak</td>
+                </tr>
+                <tr>
+                    <td>2. sd: karangmulya 2015-2021</td>
+                    <td>membaca</td>
+                    </tr>
+                    <tr>
+                        <td>3.smp : smpn 3 sumedang 2021-2024</td>
+                        <td>menyanyi</td>
+                        </tr>
+                        <tr>
+                            <td>4.smk : smkn 2 sumedang 2024-2027</td>
+                            <td>main game</td>
+                            </tr>
+                            <tr>
+                </td>
+    
+</body>
+</html>
